@@ -1,6 +1,9 @@
 {
+  "/about": "pages/about.html",
+  "/": "pages/index.html",
+  "/pets": "pages/pets.html",
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js"
+  "/404": "pages/404.html"
 }
